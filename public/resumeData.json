@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"Hello! I'm Julieta",
+    "description":"I'm fullstack Developer, lover of technology and flavors, in my free time I'm a sommelier ",
+    "image":"profilepic.jpg",
+    "bio":"I'm an enthusiastic promoter of the development and use of best practices in the process of Software Development. I focus on keeping a good balance between simplicity, elegance and getting things done. I consider communication the keystone for a project's success, and I proactively help everyone involved to improve the flow of information.",
+    "contactmessage":"Send me a message to get in touch",
+    "email": "julietaansolaberreaute@gmail.com",
+    "phone": "(54)0291-5274991",
+    "github":"https://github.com/julietaansola",
+    "project":"https://github.com/julietaansola?tab+repositories",
+    "address":{
+      "city":"Bahia Blanca",
+      "state":"Buenos Aires",
+      "zip": "8000"
+    },
+    "website": "http://www.julietaansola.dev",
+    "resumedownload":"http://julietaansola.dev",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/julieta-ansola-berreaute-121294195/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/julietaansola",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Skills",
+    "education":[
+      {
+        "school":"Teclab",
+        "degree":"Bachelor's Degree in Programming",
+        "graduated":"07/2020",
+        "description":""
+      },
+      {
+        "school":"MundosE - Universidad Nacional de Cordoba",
+        "degree":"diploma in DevOps",
+        "graduated":"12/2021",
+        "description":""
+      },
+      {
+        "school":"NUCBA",
+        "degree":"Bootcamp Fullstack Javascript",
+        "graduated":"2020",
+        "description":""
+      },
+      {
+        "school":"Telecom - EducacionIT",
+        "degree":"Fullstack Java",
+        "graduated":"2020",
+        "description":""
+      },
+      {
+        "school":"CourseIT",
+        "degree":"Frontend - Frontend Avanzado",
+        "graduated":"2020",
+        "description":""
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Cooperativa Obrera",
+        "title":"Fullstack Developer ",
+        "years":"Oct 2020 - Present",
+        "description":"I have developed applications in various technologies (Js, React, Node, PHP, Python, SQL), as well as desktop applications and portable devices (React Native). Each project was for a different customer and I was in charge of translating the requirements into code, giving suggestions on implementation, testing and deploying the solutions."
+      },
+      {
+        "company":"Javier Lujan - Puerto Bahia Blanca",
+        "title":"Frontend Developer",
+        "years":"06/2020 - 09/2020",
+        "description":"I have developed the frontend of the application according to the requirements. Technologies like React, Redux, and API connection."
+      },
+      {
+        "company":"Saber Beber",
+        "title":"Fullstack Developer",
+        "years":"06/2019 - Present",
+        "description":"Development and comprehensive maintenance of the consulting firm's website and its wordpress blog. I assisted every step of the project by implementing functionalities, improving performance, ensuring end-to-end testing, and delivering a high-quality product in a timely manner."
+      }    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"React",
+        "level":"65%"
+      },
+      {
+        "name":"Next",
+        "level":"60%"
+      },
+      {
+        "name":"Node",
+        "level":"50%"
+      },
+      {
+        "name":"PHP",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"60%"
+      },
+      {
+        "name":"AWS",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"Linux",
+        "level":"70%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Weather app",
+        "category":"React, styled component, OpenWeather API",
+        "image":"weather-app-react-five.vercel.app_.png",
+        "url":"https://weather-app-react-five.vercel.app/"
+      },
+      {
+        "title":"Rock Band",
+        "category":"HTML, CSS and Javascript",
+        "image":"pag-banda.now.sh_.png",
+        "url":"https://pag-banda.now.sh/"
+      },
+      {
+        "title":"Courflix (Netflix Clone)",
+        "category":"HTML, CSS and Javascript ",
+        "image":"courflix-lake-now.sh_.png",
+        "url":"https://courflix-lake.now.sh/"
+      },
+      {
+        "title":"Shopping Cart",
+        "category":"React app ",
+        "image":"shopping-cart-react-five.vercel.app_.png",
+        "url":"https://shopping-cart-six.vercel.app/#/"
+      },
+      {
+        "title":"Rock, Paper, Scissors",
+        "category":"React app (Frontend mentor challengue)",
+        "image":"smirkspace.jpg",
+        "url":"https://rock-paper-scissors-nine-xi.vercel.app/"
+      }
+    ]
+  }
+}
