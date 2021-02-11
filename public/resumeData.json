@@ -1,8 +1,8 @@
 {
   "main": {
-    "name":"Hello! I'm Julieta",
-    "description":"I'm fullstack Developer, lover of technology and flavors, in my free time I'm a sommelier ",
-    "image":"profilepic.jpg",
+    "name":"Julieta Ansola",
+    "description":"Hello! I'm fullstack Developer, lover of technology and flavors, in my free time I'm a sommelier ",
+    "image":"avatar.jpg",
     "bio":"I'm an enthusiastic promoter of the development and use of best practices in the process of Software Development. I focus on keeping a good balance between simplicity, elegance and getting things done. I consider communication the keystone for a project's success, and I proactively help everyone involved to improve the flow of information.",
     "contactmessage":"Send me a message to get in touch",
     "email": "julietaansolaberreaute@gmail.com",
@@ -30,7 +30,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Skills",
+    "skillmessage":"",
     "education":[
       {
         "school":"Teclab",
@@ -144,20 +144,26 @@
       {
         "title":"Courflix (Netflix Clone)",
         "category":"HTML, CSS and Javascript ",
-        "image":"courflix-lake-now.sh_.png",
+        "image":"courflix.png",
         "url":"https://courflix-lake.now.sh/"
       },
       {
         "title":"Shopping Cart",
         "category":"React app ",
-        "image":"shopping-cart-react-five.vercel.app_.png",
+        "image":"shopping-cart.png",
         "url":"https://shopping-cart-six.vercel.app/#/"
       },
       {
         "title":"Rock, Paper, Scissors",
         "category":"React app (Frontend mentor challengue)",
-        "image":"smirkspace.jpg",
+        "image":"game.png",
         "url":"https://rock-paper-scissors-nine-xi.vercel.app/"
+      },
+      {
+        "title":"Landing Page ",
+        "category":"HTML, CSS, Javascript (Frontend mentor challengue)",
+        "image":"landing-page.png",
+        "url":"https://landing-page-bank.now.sh/"
       }
     ]
   }
